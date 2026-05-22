@@ -38,3 +38,5 @@ I use *Fedora Linux* and prefer hands-on learning through labs, projects, and pr
 
 ## Current Goal
 Build practical cloud and security skills through consistent learning, labs, and real projects.
+
+###### Wait and watch.
