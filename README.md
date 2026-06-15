@@ -18,10 +18,10 @@ I use *Fedora Linux* and prefer hands-on learning through labs, projects, and pr
 
 ### Phase 1 — Linux and Bash
 - [x] Developer Setup
-- [ ] Cloud CLI
-- [ ] Infrastructure as Code
-- [ ] SSH
-- [ ] CLI Basics
+- [x] Cloud CLI
+- [x] Infrastructure as Code
+- [x] SSH
+- [x] CLI Basics
 - [ ] Linux CTF Lab
 
 ### Upcoming Phases
